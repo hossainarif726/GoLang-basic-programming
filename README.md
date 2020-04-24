@@ -7,8 +7,22 @@
 
 ## Index
 
-* 
-* 
+* Printing in go
+* Static type declaration
+* Dynamic type declaration
+* USe of Arithmetic operators
+* Conditional statement
+* Conditional statement 2
+* Loops
+* USer defined Function
+* Array
+* Pointer
+* Creating Structure
+* Slice
+* Range
+* Map
+* Pointer receiver methods with structure
+* Pointer receiver methods with structure
 
 ## Technologies
 Created with:
